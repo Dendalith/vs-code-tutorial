@@ -1,5 +1,9 @@
-I am a re   adme file
-but by the beginning im gonna be a salmon 
-because i want a diferent animal rather than a conventional one
-but i also dont know what to create to my persona personal experience 
-pls help
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nulla nulla mi, mollis at orci sed, dignissim vestibulum urna.
+Fusce eu dui convallis, sollicitudin mi sollicitudin, venenatis velit.
+Sed ut cursus arcu. Vivamus maximus aliquet elit, vitae mattis ante bibendum et.
+Cras quis posuere augue.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+Ut pellentesque efficitur fringilla.
+Maecenas ultricies congue scelerisque.
